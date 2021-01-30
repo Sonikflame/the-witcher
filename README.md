@@ -1,4 +1,4 @@
-# Промо-сайт "Ведьмак" - Учебный проект
+# Промо-сайт "Ведьмак"
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/the-witcher/](https://sonikflame.github.io/the-witcher/).
 
